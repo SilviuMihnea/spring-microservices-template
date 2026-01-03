@@ -25,7 +25,3 @@ class OrderListener {
 }
 
 typealias Order = String
-
-//data class Order(
-//    val orderId: String
-// )
